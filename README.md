@@ -4,14 +4,14 @@ A guide for setting up PugiXML in C++ projects.
 ## Installation Steps
 
 #### Option 1: Download and Build from Source
-1. Download the latest version of PugiXML from the [official GitHub repository](https://github.com/zeux/pugixml) or from the [official website](https://pugixml.org/), and save the zip file.
+1. Download the latest version of PugiXML from the [official GitHub repository](https://github.com/zeux/pugixml) or from the [official website](https://pugixml.org/), and save the tar.gz file.
     ```bash
     cd Documents
     wget https://github.com/zeux/pugixml/releases/download/v1.14/pugixml-1.14.tar.gz
     ```
 2. **Extract the archive and move it to your Documents directory:**
     ```bash
-    tar -xzvf pugixml-1.14.tar.gz -C ~/Documents
+    tar -xzvf pugixml-1.14.tar.gz
     cd ~/Documents/pugixml-1.14
     ```
 
